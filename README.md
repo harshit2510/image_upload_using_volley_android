@@ -1,2 +1,3 @@
 # image_upload_using_volley_android
 This project is an implementation of Volley library in android used to make asynchronous requests to the server .In this project an image is uploaded on the server with its name , description , date and time of upload.Image is retrieved in the next activity using its id. Picasso is used to retrieve the image.
+Project starts with the main activity where a user has to enter name , decription and the image to be uploaded .User gets id if the image is uploaded successfully . On clicking on retrieve image button , user proceeds to Retrieve activity where he has to give image id to retrieve the image . 
